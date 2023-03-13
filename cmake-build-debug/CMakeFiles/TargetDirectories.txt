@@ -1,0 +1,3 @@
+/Users/bissoli/Documents/Estudos/Projeto e Análise de Algorítmos/Aula 04 - Algoritmo de Divisão e Conquista/Merge Sort/cmake-build-debug/CMakeFiles/Merge_Sort.dir
+/Users/bissoli/Documents/Estudos/Projeto e Análise de Algorítmos/Aula 04 - Algoritmo de Divisão e Conquista/Merge Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bissoli/Documents/Estudos/Projeto e Análise de Algorítmos/Aula 04 - Algoritmo de Divisão e Conquista/Merge Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
